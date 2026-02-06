@@ -1,0 +1,51 @@
+StudentID,FirstName,LastName,Age,Grade,Major,GPA,EnrollmentDate,IsInternationalStudent,Email
+1,Olivia,Chen,20,Sophomore,Computer Science,3.8,2023-08-25,FALSE,olivia.chen@university.edu
+2,Liam,Patel,19,Freshman,Mechanical Engineering,3.5,2024-08-20,FALSE,liam.patel@university.edu
+3,Emma,Garcia,21,Junior,Biology,3.9,2022-08-22,FALSE,emma.garcia@university.edu
+4,Noah,Kim,20,Sophomore,Business Administration,3.7,2023-08-25,TRUE,noah.kim@university.edu
+5,Ava,Nguyen,22,Senior,Psychology,4.0,2021-08-24,FALSE,ava.nguyen@university.edu
+6,Lucas,Smith,19,Freshman,Electrical Engineering,3.6,2024-08-20,FALSE,lucas.smith@university.edu
+7,Isabella,Miller,20,Sophomore,Nursing,3.8,2023-08-25,FALSE,isabella.miller@university.edu
+8,Mason,Jones,21,Junior,History,3.4,2022-08-22,FALSE,mason.jones@university.edu
+9,Sophia,Davis,22,Senior,Fine Arts,3.9,2021-08-24,FALSE,sophia.davis@university.edu
+10,Ethan,Rodriguez,19,Freshman,Chemistry,3.7,2024-08-20,FALSE,ethan.rodriguez@university.edu
+11,Mia,Wilson,20,Sophomore,Political Science,3.6,2023-08-25,FALSE,mia.wilson@university.edu
+12,Benjamin,Martinez,21,Junior,Economics,3.8,2022-08-22,FALSE,benjamin.martinez@university.edu
+13,Charlotte,Anderson,22,Senior,Sociology,3.5,2021-08-24,FALSE,charlotte.anderson@university.edu
+14,Jacob,Thomas,19,Freshman,Aerospace Engineering,3.9,2024-08-20,TRUE,jacob.thomas@university.edu
+15,Amelia,Jackson,20,Sophomore,Journalism,3.7,2023-08-25,FALSE,amelia.jackson@university.edu
+16,Harper,White,21,Junior,Marketing,3.8,2022-08-22,FALSE,harper.white@university.edu
+17,Evelyn,Harris,22,Senior,Physics,4.0,2021-08-24,FALSE,evelyn.harris@university.edu
+18,James,Clark,19,Freshman,Computer Engineering,3.6,2024-08-20,FALSE,james.clark@university.edu
+19,Abigail,Lewis,20,Sophomore,Graphic Design,3.5,2023-08-25,FALSE,abigail.lewis@university.edu
+20,Michael,Young,21,Junior,Criminal Justice,3.7,2022-08-22,FALSE,michael.young@university.edu
+21,Ella,Hall,22,Senior,Education,3.8,2021-08-24,FALSE,ella.hall@university.edu
+22,Alexander,King,19,Freshman,Data Science,3.9,2024-08-20,TRUE,alexander.king@university.edu
+23,Sofia,Wright,20,Sophomore,Anthropology,3.6,2023-08-25,FALSE,sofia.wright@university.edu
+24,Daniel,Hill,21,Junior,Finance,3.8,2022-08-22,FALSE,daniel.hill@university.edu
+25,Chloe,Scott,22,Senior,Music,3.4,2021-08-24,FALSE,chloe.scott@university.edu
+26,Henry,Green,19,Freshman,Biomedical Engineering,3.9,2024-08-20,FALSE,henry.green@university.edu
+27,Grace,Baker,20,Sophomore,Veterinary Medicine,3.7,2023-08-25,FALSE,grace.baker@university.edu
+28,Sebastian,Adams,21,Junior,Art History,3.6,2022-08-22,FALSE,sebastian.adams@university.edu
+29,Lily,Nelson,22,Senior,Chemistry,3.8,2021-08-24,FALSE,lily.nelson@university.edu
+30,Jack,Carter,19,Freshman,Civil Engineering,3.5,2024-08-20,FALSE,jack.carter@university.edu
+31,Zoe,Mitchell,20,Sophomore,Physics,3.9,2023-08-25,TRUE,zoe.mitchell@university.edu
+32,Samuel,Perez,21,Junior,Nursing,3.7,2022-08-22,FALSE,samuel.perez@university.edu
+33,Addison,Roberts,22,Senior,Computer Science,3.8,2021-08-24,FALSE,addison.roberts@university.edu
+34,Matthew,Turner,19,Freshman,Information Technology,3.6,2024-08-20,FALSE,matthew.turner@university.edu
+35,Victoria,Phillips,20,Sophomore,Psychology,3.4,2023-08-25,FALSE,victoria.phillips@university.edu
+36,Leo,Campbell,21,Junior,Economics,3.9,2022-08-22,FALSE,leo.campbell@university.edu
+37,Aubrey,Parker,22,Senior,Biology,3.7,2021-08-24,FALSE,aubrey.parker@university.edu
+38,Andrew,Evans,19,Freshman,Mechanical Engineering,3.8,2024-08-20,FALSE,andrew.evans@university.edu
+39,Ellie,Edwards,20,Sophomore,English Literature,3.5,2023-08-25,FALSE,ellie.edwards@university.edu
+40,David,Collins,21,Junior,Political Science,3.9,2022-08-22,FALSE,david.collins@university.edu
+41,Natalie,Stewart,22,Senior,Business Administration,3.6,2021-08-24,FALSE,natalie.stewart@university.edu
+42,Joseph,Morris,19,Freshman,Aerospace Engineering,3.7,2024-08-20,FALSE,joseph.morris@university.edu
+43,Hannah,Rogers,20,Sophomore,Chemistry,3.8,2023-08-25,FALSE,hannah.rogers@university.edu
+44,Grace,Bell,21,Junior,Sociology,3.4,2022-08-22,FALSE,grace.bell@university.edu
+45,Caleb,Reed,22,Senior,Marketing,3.9,2021-08-24,TRUE,caleb.reed@university.edu
+46,Peyton,Cook,19,Freshman,Fine Arts,3.6,2024-08-20,FALSE,peyton.cook@university.edu
+47,Layla,Morgan,20,Sophomore,Journalism,3.7,2023-08-25,FALSE,layla.morgan@university.edu
+48,Luke,Cooper,21,Junior,Graphic Design,3.8,2022-08-22,FALSE,luke.cooper@university.edu
+49,Scarlett,Bailey,22,Senior,Criminal Justice,3.5,2021-08-24,FALSE,scarlett.bailey@university.edu
+50,John,Hughes,19,Freshman,Education,3.9,2024-08-20,FALSE,john.hughes@university.edu
