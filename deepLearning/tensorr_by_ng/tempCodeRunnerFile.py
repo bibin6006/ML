@@ -1,0 +1,12 @@
+import numpy as np
+a=np.random.randn(5,3)
+b=np.random.randn(3,1)
+# a=np.array([[2],[1]])
+# b=np.array([[2,1,2],[1,2,3]])
+c=np.dot(a,b)
+print(a)
+print()
+print(b)
+print()
+print(c)
+print(abs(-2-8))
